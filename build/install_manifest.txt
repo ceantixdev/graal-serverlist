@@ -1,0 +1,5 @@
+/root/Listserver/./ipbans.txt
+/root/Listserver/./settings.ini
+/root/Listserver/docs/sql_account_creation.txt
+/root/Listserver/docs/sql_tables.txt
+/root/Listserver/./listserver

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/tyler/repos/graal-serverlist/lib/libma_getopt.a CMakeFiles/ma_getopt.dir/ma_getopt.c.o
+/usr/bin/ranlib /home/tyler/repos/graal-serverlist/lib/libma_getopt.a

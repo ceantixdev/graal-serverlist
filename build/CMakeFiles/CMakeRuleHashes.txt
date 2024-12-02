@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ed4d12f8309cb037c48899da9974dcc3 dependencies/mysqlclient/libmariadb/CMakeFiles/SYM_libmariadb.a
+cc8b40a6ef2c7217d32aaf840d798281 dependencies/mysqlclient/libmariadb/libmariadb.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/tyler/repos/graal-serverlist/lib/libcctap.a CMakeFiles/cctap.dir/tap.c.o
+/usr/bin/ranlib /home/tyler/repos/graal-serverlist/lib/libcctap.a
