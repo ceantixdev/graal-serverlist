@@ -16,7 +16,6 @@ bin/*.zip
 bin/*.txt
 bin/listserver
 bin/ListServer.exe
-build*/*
 cmake-build-*/
 lib/
 out/
