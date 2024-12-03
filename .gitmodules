@@ -7,3 +7,6 @@
 [submodule "dependencies/mysqlclient"]
 	path = dependencies/mysqlclient
 	url = https://github.com/MariaDB/mariadb-connector-c.git
+[submodule "build/_deps/catch2-src"]
+	path = build/_deps/catch2-src
+	url = https://github.com/ceantixdev/catch2-src.git
