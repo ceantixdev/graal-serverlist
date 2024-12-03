@@ -27,7 +27,7 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 
 include(ExternalProject)
 ExternalProject_Add(catch2-populate
-                     "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/catchorg/Catch2.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "GIT_TAG" "v3.0.1"
+                     "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/ceantixdev/catch2-src.git" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "GIT_TAG" "v3.0.1"
                     SOURCE_DIR          "/home/tyler/repos/graal-serverlist/build/_deps/catch2-src"
                     BINARY_DIR          "/home/tyler/repos/graal-serverlist/build/_deps/catch2-build"
                     CONFIGURE_COMMAND   ""
