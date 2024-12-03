@@ -1,7 +1,7 @@
 dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/__/external/zlib/gzwrite.c.o: \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/external/zlib/gzwrite.c \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/external/zlib/gzwrite.c \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/external/zlib/gzguts.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/external/zlib/gzguts.h \
  /usr/include/stdio.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
  /usr/include/bits/wordsize.h /usr/include/bits/timesize.h \
@@ -17,8 +17,8 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/__/external/zlib/
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
  /usr/include/bits/floatn-common.h /usr/include/bits/stdio.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/external/zlib/zlib.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/external/zlib/zconf.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/external/zlib/zlib.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/external/zlib/zconf.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/limits.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \

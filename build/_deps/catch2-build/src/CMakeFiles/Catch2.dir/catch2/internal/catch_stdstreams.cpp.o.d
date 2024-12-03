@@ -1,7 +1,7 @@
 _deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o: \
- /home/tyler/projects/graal-serverlist/build/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp \
+ /home/tyler/repos/graal-serverlist/build/_deps/catch2-src/src/catch2/internal/catch_stdstreams.cpp \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/build/_deps/catch2-src/src/catch2/../catch2/internal/catch_stdstreams.hpp \
+ /home/tyler/repos/graal-serverlist/build/_deps/catch2-src/src/catch2/../catch2/internal/catch_stdstreams.hpp \
  /usr/include/c++/14.2.1/iosfwd \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -24,7 +24,7 @@ _deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cp
  /usr/include/bits/types/__mbstate_t.h /usr/include/bits/types/__FILE.h \
  /usr/include/bits/types/FILE.h /usr/include/bits/types/locale_t.h \
  /usr/include/bits/types/__locale_t.h \
- /home/tyler/projects/graal-serverlist/build/generated-includes/catch2/catch_user_config.hpp \
+ /home/tyler/repos/graal-serverlist/build/generated-includes/catch2/catch_user_config.hpp \
  /usr/include/c++/14.2.1/iostream /usr/include/c++/14.2.1/ostream \
  /usr/include/c++/14.2.1/ios /usr/include/c++/14.2.1/exception \
  /usr/include/c++/14.2.1/bits/exception.h \

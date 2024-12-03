@@ -1,8 +1,8 @@
 dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/__/plugins/pvio/pvio_socket.c.o: \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/plugins/pvio/pvio_socket.c \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/plugins/pvio/pvio_socket.c \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
  /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \
@@ -75,22 +75,22 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/__/plugins/pvio/p
  /usr/include/asm/sockios.h /usr/include/asm-generic/sockios.h \
  /usr/include/bits/types/struct_osockaddr.h /usr/include/dlfcn.h \
  /usr/include/bits/dlfcn.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_sys.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_sys.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
  /usr/include/ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/errmsg.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql/client_plugin.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_pvio.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_tls.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql/plugin_auth_common.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_compress.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb/ma_io.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/errmsg.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql/client_plugin.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_pvio.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_tls.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql/plugin_auth_common.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_compress.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb/ma_io.h \
  /usr/include/curl/curl.h /usr/include/curl/curlver.h \
  /usr/include/curl/system.h /usr/include/sys/time.h \
  /usr/include/curl/easy.h /usr/include/curl/multi.h \
@@ -98,13 +98,13 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/__/plugins/pvio/p
  /usr/include/curl/options.h /usr/include/curl/header.h \
  /usr/include/curl/websockets.h /usr/include/curl/mprintf.h \
  /usr/include/curl/typecheck-gcc.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_context.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_context.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_async.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_common.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_hashtbl.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_async.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_common.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_hashtbl.h \
  /usr/include/string.h /usr/include/strings.h /usr/include/sys/un.h \
  /usr/include/sys/poll.h /usr/include/bits/poll.h \
  /usr/include/sys/ioctl.h /usr/include/bits/ioctls.h \

@@ -6,7 +6,7 @@
 #  Dan Nicholson’s Guide to pkg-config (http://www.freedesktop.org/wiki/Software/pkg-config/)
 #
 
-prefix=/root/GServer
+prefix=/root/Listserver
 includedir=${prefix}/include/mariadb/
 libdir=${prefix}/lib/mariadb/
 

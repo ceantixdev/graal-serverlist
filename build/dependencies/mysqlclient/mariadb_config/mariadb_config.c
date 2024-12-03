@@ -49,7 +49,7 @@ static char *mariadb_progname;
 #define PKG_LIBDIR "%s/lib/mariadb"
 
 #ifdef HAVE_EMBEDDED
-#define EMBEDDED_LIBS "-L/root/GServer/lib/mariadb/ -lmariadbd -ldl -lm -lssl -lcrypto"
+#define EMBEDDED_LIBS "-L/root/Listserver/lib/mariadb/ -lmariadbd -ldl -lm -lssl -lcrypto"
 #endif
 
 #if defined(SOLARIS) || defined(__sun)
@@ -225,7 +225,7 @@ end:
   }
   if (!p || !p[0])
   {
-    strncpy(installation_dir, "/root/GServer", PATH_MAX - 1);
+    strncpy(installation_dir, "/root/Listserver", PATH_MAX - 1);
     return;
   }
 }

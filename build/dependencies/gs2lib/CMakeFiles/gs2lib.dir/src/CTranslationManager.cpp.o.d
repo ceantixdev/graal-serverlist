@@ -1,8 +1,8 @@
 dependencies/gs2lib/CMakeFiles/gs2lib.dir/src/CTranslationManager.cpp.o: \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/src/CTranslationManager.cpp \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/src/CTranslationManager.cpp \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/IDebug.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CTranslationManager.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/IDebug.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CTranslationManager.h \
  /usr/include/c++/14.2.1/map \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \

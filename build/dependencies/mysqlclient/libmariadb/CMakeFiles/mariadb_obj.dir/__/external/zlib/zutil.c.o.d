@@ -1,9 +1,9 @@
 dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/__/external/zlib/zutil.c.o: \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/external/zlib/zutil.c \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/external/zlib/zutil.c \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/external/zlib/zutil.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/external/zlib/zlib.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/external/zlib/zconf.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/external/zlib/zutil.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/external/zlib/zlib.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/external/zlib/zconf.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/limits.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/syslimits.h \
@@ -42,7 +42,7 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/__/external/zlib/
  /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
  /usr/include/alloca.h /usr/include/bits/stdlib-bsearch.h \
  /usr/include/bits/stdlib-float.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/external/zlib/gzguts.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/external/zlib/gzguts.h \
  /usr/include/stdio.h /usr/include/bits/types/__fpos_t.h \
  /usr/include/bits/types/__mbstate_t.h \
  /usr/include/bits/types/__fpos64_t.h /usr/include/bits/types/__FILE.h \

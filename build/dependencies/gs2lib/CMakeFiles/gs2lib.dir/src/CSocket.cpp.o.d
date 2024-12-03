@@ -1,7 +1,7 @@
 dependencies/gs2lib/CMakeFiles/gs2lib.dir/src/CSocket.cpp.o: \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/src/CSocket.cpp \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/src/CSocket.cpp \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/IDebug.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/IDebug.h \
  /usr/include/c++/14.2.1/thread \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -190,13 +190,13 @@ dependencies/gs2lib/CMakeFiles/gs2lib.dir/src/CSocket.cpp.o: \
  /usr/include/bits/stat.h /usr/include/bits/struct_stat.h \
  /usr/include/netinet/tcp.h /usr/include/memory.h /usr/include/string.h \
  /usr/include/strings.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CSocket.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CSocket.h \
  /usr/include/arpa/inet.h /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
  /usr/include/c++/14.2.1/bits/stl_vector.h \
  /usr/include/c++/14.2.1/bits/stl_bvector.h \
  /usr/include/c++/14.2.1/bits/vector.tcc \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CLog.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CLog.h \
  /usr/include/c++/14.2.1/cstdarg /usr/include/c++/14.2.1/mutex \
  /usr/include/c++/14.2.1/bits/unique_lock.h \
  /usr/include/c++/14.2.1/condition_variable \
@@ -206,7 +206,7 @@ dependencies/gs2lib/CMakeFiles/gs2lib.dir/src/CSocket.cpp.o: \
  /usr/include/c++/14.2.1/ext/aligned_buffer.h \
  /usr/include/c++/14.2.1/ext/concurrence.h \
  /usr/include/c++/14.2.1/bits/align.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CString.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CString.h \
  /usr/include/c++/14.2.1/cstring /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algo.h \
  /usr/include/c++/14.2.1/bits/algorithmfwd.h \
@@ -217,7 +217,7 @@ dependencies/gs2lib/CMakeFiles/gs2lib.dir/src/CSocket.cpp.o: \
  /usr/include/c++/14.2.1/bits/ranges_algobase.h \
  /usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h \
  /usr/include/c++/14.2.1/pstl/execution_defs.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/IUtil.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/IUtil.h \
  /usr/include/c++/14.2.1/map /usr/include/c++/14.2.1/bits/stl_tree.h \
  /usr/include/c++/14.2.1/bits/node_handle.h \
  /usr/include/c++/14.2.1/bits/stl_map.h \

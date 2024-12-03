@@ -1,5 +1,5 @@
 dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/mariadb_dyncol.c.o: \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/libmariadb/mariadb_dyncol.c \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/libmariadb/mariadb_dyncol.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
@@ -16,8 +16,8 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/mariadb_dyncol.c.
  /usr/include/bits/types/cookie_io_functions_t.h \
  /usr/include/bits/stdio_lim.h /usr/include/bits/floatn.h \
  /usr/include/bits/floatn-common.h /usr/include/bits/stdio.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
  /usr/include/assert.h /usr/include/pthread.h /usr/include/sched.h \
  /usr/include/bits/types/time_t.h \
  /usr/include/bits/types/struct_timespec.h /usr/include/bits/endian.h \
@@ -74,15 +74,15 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/mariadb_dyncol.c.
  /usr/include/asm/sockios.h /usr/include/asm-generic/sockios.h \
  /usr/include/bits/types/struct_osockaddr.h /usr/include/dlfcn.h \
  /usr/include/bits/dlfcn.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_sys.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_sys.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
  /usr/include/ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_string.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_string.h \
  /usr/include/string.h /usr/include/strings.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_dyncol.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_dyncol.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h

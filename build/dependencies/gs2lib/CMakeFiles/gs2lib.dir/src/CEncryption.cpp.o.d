@@ -1,8 +1,8 @@
 dependencies/gs2lib/CMakeFiles/gs2lib.dir/src/CEncryption.cpp.o: \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/src/CEncryption.cpp \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/src/CEncryption.cpp \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/IDebug.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CEncryption.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/IDebug.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CEncryption.h \
  /usr/include/c++/14.2.1/cstdint \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -18,7 +18,7 @@ dependencies/gs2lib/CMakeFiles/gs2lib.dir/src/CEncryption.cpp.o: \
  /usr/include/bits/time64.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-intn.h /usr/include/bits/stdint-uintn.h \
  /usr/include/bits/stdint-least.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CString.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CString.h \
  /usr/include/c++/14.2.1/cstdlib /usr/include/stdlib.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h \
  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \

@@ -1,5 +1,5 @@
 server/CMakeFiles/listserver_lib.dir/src/MySQLBackend.cpp.o: \
- /home/tyler/projects/graal-serverlist/server/src/MySQLBackend.cpp \
+ /home/tyler/repos/graal-serverlist/server/src/MySQLBackend.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -61,7 +61,7 @@ server/CMakeFiles/listserver_lib.dir/src/MySQLBackend.cpp.o: \
  /usr/include/c++/14.2.1/bits/ranges_base.h \
  /usr/include/c++/14.2.1/bits/max_size_type.h \
  /usr/include/c++/14.2.1/numbers \
- /home/tyler/projects/graal-serverlist/server/include/MySQLBackend.h \
+ /home/tyler/repos/graal-serverlist/server/include/MySQLBackend.h \
  /usr/include/c++/14.2.1/string /usr/include/c++/14.2.1/bits/stringfwd.h \
  /usr/include/c++/14.2.1/bits/char_traits.h \
  /usr/include/c++/14.2.1/bits/postypes.h /usr/include/c++/14.2.1/cwchar \
@@ -114,14 +114,14 @@ server/CMakeFiles/listserver_lib.dir/src/MySQLBackend.cpp.o: \
  /usr/include/bits/types/error_t.h \
  /usr/include/c++/14.2.1/bits/charconv.h \
  /usr/include/c++/14.2.1/bits/basic_string.tcc \
- /home/tyler/projects/graal-serverlist/dependencies/mysql-modern-cpp/mysql+++/mysql+++.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/mysql/mysql.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/mysql/errmsg.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysql-modern-cpp/mysql+++/mysql+++.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/mysql/mysql.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/mysql/errmsg.h \
  /usr/include/c++/14.2.1/ctime /usr/include/time.h \
  /usr/include/bits/time.h /usr/include/bits/timex.h \
  /usr/include/bits/types/struct_tm.h \
@@ -198,8 +198,8 @@ server/CMakeFiles/listserver_lib.dir/src/MySQLBackend.cpp.o: \
  /usr/include/c++/14.2.1/bits/ranges_algobase.h \
  /usr/include/c++/14.2.1/pstl/glue_memory_defs.h \
  /usr/include/c++/14.2.1/pstl/execution_defs.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysql-modern-cpp/mysql+++/polyfill/function_traits.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysql-modern-cpp/mysql+++/polyfill/datetime.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysql-modern-cpp/mysql+++/polyfill/function_traits.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysql-modern-cpp/mysql+++/polyfill/datetime.h \
  /usr/include/c++/14.2.1/sstream /usr/include/c++/14.2.1/istream \
  /usr/include/c++/14.2.1/bits/istream.tcc \
  /usr/include/c++/14.2.1/bits/sstream.tcc /usr/include/c++/14.2.1/iomanip \
@@ -213,8 +213,8 @@ server/CMakeFiles/listserver_lib.dir/src/MySQLBackend.cpp.o: \
  /usr/include/c++/14.2.1/bits/quoted_string.h /usr/include/string.h \
  /usr/include/strings.h /usr/include/c++/14.2.1/optional \
  /usr/include/c++/14.2.1/bits/enable_special_members.h \
- /home/tyler/projects/graal-serverlist/server/include/IDataBackend.h \
- /home/tyler/projects/graal-serverlist/server/include/DeviceIdentity.h \
+ /home/tyler/repos/graal-serverlist/server/include/IDataBackend.h \
+ /home/tyler/repos/graal-serverlist/server/include/DeviceIdentity.h \
  /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algo.h \
  /usr/include/c++/14.2.1/bits/algorithmfwd.h \
@@ -222,7 +222,7 @@ server/CMakeFiles/listserver_lib.dir/src/MySQLBackend.cpp.o: \
  /usr/include/c++/14.2.1/bits/uniform_int_dist.h \
  /usr/include/c++/14.2.1/bits/ranges_algo.h \
  /usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CString.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CString.h \
  /usr/include/c++/14.2.1/cstring \
- /home/tyler/projects/graal-serverlist/server/include/PlayerProfile.h \
- /home/tyler/projects/graal-serverlist/server/include/ServerHQ.h
+ /home/tyler/repos/graal-serverlist/server/include/PlayerProfile.h \
+ /home/tyler/repos/graal-serverlist/server/include/ServerHQ.h

@@ -1,7 +1,7 @@
 server/CMakeFiles/listserver_lib.dir/src/ServerPlayer.cpp.o: \
- /home/tyler/projects/graal-serverlist/server/src/ServerPlayer.cpp \
+ /home/tyler/repos/graal-serverlist/server/src/ServerPlayer.cpp \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/server/include/ServerPlayer.h \
+ /home/tyler/repos/graal-serverlist/server/include/ServerPlayer.h \
  /usr/include/c++/14.2.1/cstdint \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -112,7 +112,7 @@ server/CMakeFiles/listserver_lib.dir/src/ServerPlayer.cpp.o: \
  /usr/include/c++/14.2.1/bits/uses_allocator.h \
  /usr/include/c++/14.2.1/bits/uses_allocator_args.h \
  /usr/include/c++/14.2.1/tuple /usr/include/c++/14.2.1/bits/ranges_util.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CString.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CString.h \
  /usr/include/c++/14.2.1/cstring /usr/include/string.h \
  /usr/include/strings.h /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
@@ -129,8 +129,8 @@ server/CMakeFiles/listserver_lib.dir/src/ServerPlayer.cpp.o: \
  /usr/include/c++/14.2.1/bits/ranges_algobase.h \
  /usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h \
  /usr/include/c++/14.2.1/pstl/execution_defs.h \
- /home/tyler/projects/graal-serverlist/server/include/SimulatedIrcStub.h \
- /home/tyler/projects/graal-serverlist/server/include/IrcStub.h \
+ /home/tyler/repos/graal-serverlist/server/include/SimulatedIrcStub.h \
+ /home/tyler/repos/graal-serverlist/server/include/IrcStub.h \
  /usr/include/c++/14.2.1/unordered_set \
  /usr/include/c++/14.2.1/bits/unordered_set.h \
  /usr/include/c++/14.2.1/bits/hashtable.h \
@@ -139,13 +139,13 @@ server/CMakeFiles/listserver_lib.dir/src/ServerPlayer.cpp.o: \
  /usr/include/c++/14.2.1/bits/enable_special_members.h \
  /usr/include/c++/14.2.1/bits/node_handle.h \
  /usr/include/c++/14.2.1/bits/erase_if.h \
- /home/tyler/projects/graal-serverlist/server/include/IrcChannel.h \
+ /home/tyler/repos/graal-serverlist/server/include/IrcChannel.h \
  /usr/include/c++/14.2.1/map /usr/include/c++/14.2.1/bits/stl_tree.h \
  /usr/include/c++/14.2.1/bits/stl_map.h \
  /usr/include/c++/14.2.1/bits/stl_multimap.h \
  /usr/include/c++/14.2.1/unordered_map \
  /usr/include/c++/14.2.1/bits/unordered_map.h \
- /home/tyler/projects/graal-serverlist/server/include/ServerConnection.h \
+ /home/tyler/repos/graal-serverlist/server/include/ServerConnection.h \
  /usr/include/c++/14.2.1/ctime /usr/include/time.h \
  /usr/include/bits/time.h /usr/include/bits/timex.h \
  /usr/include/bits/types/struct_tm.h \
@@ -212,7 +212,7 @@ server/CMakeFiles/listserver_lib.dir/src/ServerPlayer.cpp.o: \
  /usr/include/c++/14.2.1/backward/auto_ptr.h \
  /usr/include/c++/14.2.1/bits/ranges_uninitialized.h \
  /usr/include/c++/14.2.1/pstl/glue_memory_defs.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CSocket.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CSocket.h \
  /usr/include/netinet/in.h /usr/include/sys/socket.h \
  /usr/include/bits/types/struct_iovec.h /usr/include/bits/socket.h \
  /usr/include/bits/socket_type.h /usr/include/bits/sockaddr.h \
@@ -224,16 +224,16 @@ server/CMakeFiles/listserver_lib.dir/src/ServerPlayer.cpp.o: \
  /usr/include/asm-generic/sockios.h \
  /usr/include/bits/types/struct_osockaddr.h /usr/include/bits/in.h \
  /usr/include/arpa/inet.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CEncryption.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CString.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CFileQueue.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CEncryption.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CString.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CFileQueue.h \
  /usr/include/c++/14.2.1/queue /usr/include/c++/14.2.1/deque \
  /usr/include/c++/14.2.1/bits/stl_deque.h \
  /usr/include/c++/14.2.1/bits/deque.tcc \
  /usr/include/c++/14.2.1/bits/stl_queue.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CEncryption.h \
- /home/tyler/projects/graal-serverlist/server/include/ServerHQ.h \
- /home/tyler/projects/graal-serverlist/server/include/ClientType.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/IUtil.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CEncryption.h \
+ /home/tyler/repos/graal-serverlist/server/include/ServerHQ.h \
+ /home/tyler/repos/graal-serverlist/server/include/ClientType.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/IUtil.h \
  /usr/include/c++/14.2.1/iterator \
  /usr/include/c++/14.2.1/bits/stream_iterator.h

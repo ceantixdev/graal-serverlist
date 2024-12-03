@@ -1,8 +1,8 @@
 dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/secure/openssl.c.o: \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/libmariadb/secure/openssl.c \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/libmariadb/secure/openssl.c \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
  /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \
@@ -75,22 +75,22 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/secure/openssl.c.
  /usr/include/asm/sockios.h /usr/include/asm-generic/sockios.h \
  /usr/include/bits/types/struct_osockaddr.h /usr/include/dlfcn.h \
  /usr/include/bits/dlfcn.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_sys.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_sys.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
  /usr/include/ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_common.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql/client_plugin.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_pvio.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_tls.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql/plugin_auth_common.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_compress.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb/ma_io.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_common.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql/client_plugin.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_pvio.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_tls.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql/plugin_auth_common.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_compress.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb/ma_io.h \
  /usr/include/curl/curl.h /usr/include/curl/curlver.h \
  /usr/include/curl/system.h /usr/include/sys/time.h \
  /usr/include/curl/easy.h /usr/include/curl/multi.h \
@@ -98,49 +98,57 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/secure/openssl.c.
  /usr/include/curl/options.h /usr/include/curl/header.h \
  /usr/include/curl/websockets.h /usr/include/curl/mprintf.h \
  /usr/include/curl/typecheck-gcc.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_hashtbl.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/errmsg.h \
- /usr/include/string.h /usr/include/strings.h /usr/include/openssl/ssl.h \
- /usr/include/openssl/macros.h /usr/include/openssl/opensslconf.h \
- /usr/include/openssl/configuration.h /usr/include/openssl/opensslv.h \
- /usr/include/openssl/e_os2.h /usr/include/inttypes.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_hashtbl.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/errmsg.h \
+ /usr/include/string.h /usr/include/strings.h \
+ /usr/local/include/openssl/ssl.h /usr/local/include/openssl/macros.h \
+ /usr/local/include/openssl/opensslconf.h \
+ /usr/local/include/openssl/configuration.h \
+ /usr/local/include/openssl/opensslv.h /usr/local/include/openssl/e_os2.h \
+ /usr/include/inttypes.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \
- /usr/include/openssl/e_ostime.h /usr/include/openssl/comp.h \
- /usr/include/openssl/crypto.h /usr/include/openssl/safestack.h \
- /usr/include/openssl/stack.h /usr/include/openssl/types.h \
- /usr/include/openssl/cryptoerr.h /usr/include/openssl/symhacks.h \
- /usr/include/openssl/cryptoerr_legacy.h /usr/include/openssl/core.h \
- /usr/include/openssl/comperr.h /usr/include/openssl/bio.h \
- /usr/include/openssl/bioerr.h /usr/include/openssl/x509.h \
- /usr/include/openssl/buffer.h /usr/include/openssl/buffererr.h \
- /usr/include/openssl/evp.h /usr/include/openssl/core_dispatch.h \
- /usr/include/openssl/indicator.h /usr/include/openssl/params.h \
- /usr/include/openssl/bn.h /usr/include/openssl/bnerr.h \
- /usr/include/openssl/evperr.h /usr/include/openssl/objects.h \
- /usr/include/openssl/obj_mac.h /usr/include/openssl/asn1.h \
- /usr/include/openssl/asn1err.h /usr/include/openssl/objectserr.h \
- /usr/include/openssl/ec.h /usr/include/openssl/ecerr.h \
- /usr/include/openssl/rsa.h /usr/include/openssl/rsaerr.h \
- /usr/include/openssl/dsa.h /usr/include/openssl/dh.h \
- /usr/include/openssl/dherr.h /usr/include/openssl/dsaerr.h \
- /usr/include/openssl/sha.h /usr/include/openssl/x509err.h \
- /usr/include/openssl/x509_vfy.h /usr/include/openssl/lhash.h \
- /usr/include/openssl/pkcs7.h /usr/include/openssl/pkcs7err.h \
- /usr/include/openssl/http.h /usr/include/openssl/conf.h \
- /usr/include/openssl/conferr.h /usr/include/openssl/conftypes.h \
- /usr/include/openssl/pem.h /usr/include/openssl/pemerr.h \
- /usr/include/openssl/hmac.h /usr/include/openssl/async.h \
- /usr/include/openssl/asyncerr.h /usr/include/openssl/ct.h \
- /usr/include/openssl/cterr.h /usr/include/openssl/sslerr.h \
- /usr/include/openssl/sslerr_legacy.h /usr/include/openssl/prov_ssl.h \
- /usr/include/openssl/ssl2.h /usr/include/openssl/ssl3.h \
- /usr/include/openssl/tls1.h /usr/include/openssl/dtls1.h \
- /usr/include/openssl/srtp.h /usr/include/openssl/quic.h \
- /usr/include/openssl/err.h /usr/include/openssl/md4.h \
- /usr/include/openssl/x509v3.h /usr/include/openssl/x509v3err.h \
- /usr/include/memory.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_pthread.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_async.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_context.h
+ /usr/local/include/openssl/e_ostime.h /usr/local/include/openssl/comp.h \
+ /usr/local/include/openssl/crypto.h \
+ /usr/local/include/openssl/safestack.h \
+ /usr/local/include/openssl/stack.h /usr/local/include/openssl/types.h \
+ /usr/local/include/openssl/cryptoerr.h \
+ /usr/local/include/openssl/symhacks.h \
+ /usr/local/include/openssl/cryptoerr_legacy.h \
+ /usr/local/include/openssl/core.h /usr/local/include/openssl/comperr.h \
+ /usr/local/include/openssl/bio.h /usr/local/include/openssl/bioerr.h \
+ /usr/local/include/openssl/x509.h /usr/local/include/openssl/buffer.h \
+ /usr/local/include/openssl/buffererr.h /usr/local/include/openssl/evp.h \
+ /usr/local/include/openssl/core_dispatch.h \
+ /usr/local/include/openssl/indicator.h \
+ /usr/local/include/openssl/params.h /usr/local/include/openssl/bn.h \
+ /usr/local/include/openssl/bnerr.h /usr/local/include/openssl/evperr.h \
+ /usr/local/include/openssl/objects.h \
+ /usr/local/include/openssl/obj_mac.h /usr/local/include/openssl/asn1.h \
+ /usr/local/include/openssl/asn1err.h \
+ /usr/local/include/openssl/objectserr.h /usr/local/include/openssl/ec.h \
+ /usr/local/include/openssl/ecerr.h /usr/local/include/openssl/rsa.h \
+ /usr/local/include/openssl/rsaerr.h /usr/local/include/openssl/dsa.h \
+ /usr/local/include/openssl/dh.h /usr/local/include/openssl/dherr.h \
+ /usr/local/include/openssl/dsaerr.h /usr/local/include/openssl/sha.h \
+ /usr/local/include/openssl/x509err.h \
+ /usr/local/include/openssl/x509_vfy.h /usr/local/include/openssl/lhash.h \
+ /usr/local/include/openssl/pkcs7.h /usr/local/include/openssl/pkcs7err.h \
+ /usr/local/include/openssl/http.h /usr/local/include/openssl/conf.h \
+ /usr/local/include/openssl/conferr.h \
+ /usr/local/include/openssl/conftypes.h /usr/local/include/openssl/pem.h \
+ /usr/local/include/openssl/pemerr.h /usr/local/include/openssl/hmac.h \
+ /usr/local/include/openssl/async.h /usr/local/include/openssl/asyncerr.h \
+ /usr/local/include/openssl/ct.h /usr/local/include/openssl/cterr.h \
+ /usr/local/include/openssl/sslerr.h \
+ /usr/local/include/openssl/sslerr_legacy.h \
+ /usr/local/include/openssl/prov_ssl.h /usr/local/include/openssl/ssl2.h \
+ /usr/local/include/openssl/ssl3.h /usr/local/include/openssl/tls1.h \
+ /usr/local/include/openssl/dtls1.h /usr/local/include/openssl/srtp.h \
+ /usr/local/include/openssl/quic.h /usr/local/include/openssl/err.h \
+ /usr/local/include/openssl/md4.h /usr/local/include/openssl/x509v3.h \
+ /usr/local/include/openssl/x509v3err.h /usr/include/memory.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_pthread.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_async.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_context.h

@@ -1,8 +1,8 @@
 dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/ma_time.c.o: \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/libmariadb/ma_time.c \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/libmariadb/ma_time.c \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_global.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/ma_config.h \
  /usr/include/assert.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
  /usr/include/bits/timesize.h /usr/include/sys/cdefs.h \
@@ -75,10 +75,10 @@ dependencies/mysqlclient/libmariadb/CMakeFiles/mariadb_obj.dir/ma_time.c.o: \
  /usr/include/asm/sockios.h /usr/include/asm-generic/sockios.h \
  /usr/include/bits/types/struct_osockaddr.h /usr/include/dlfcn.h \
  /usr/include/bits/dlfcn.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
- /home/tyler/projects/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mysql.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_com.h \
+ /home/tyler/repos/graal-serverlist/build/dependencies/mysqlclient/include/mariadb_version.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/ma_list.h \
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_ctype.h \
  /usr/include/ctype.h \
- /home/tyler/projects/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h
+ /home/tyler/repos/graal-serverlist/dependencies/mysqlclient/include/mariadb_stmt.h

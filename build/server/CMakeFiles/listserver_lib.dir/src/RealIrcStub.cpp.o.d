@@ -1,8 +1,8 @@
 server/CMakeFiles/listserver_lib.dir/src/RealIrcStub.cpp.o: \
- /home/tyler/projects/graal-serverlist/server/src/RealIrcStub.cpp \
+ /home/tyler/repos/graal-serverlist/server/src/RealIrcStub.cpp \
  /usr/include/stdc-predef.h \
- /home/tyler/projects/graal-serverlist/server/include/RealIrcStub.h \
- /home/tyler/projects/graal-serverlist/server/include/IrcStub.h \
+ /home/tyler/repos/graal-serverlist/server/include/RealIrcStub.h \
+ /home/tyler/repos/graal-serverlist/server/include/IrcStub.h \
  /usr/include/c++/14.2.1/string \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -123,13 +123,13 @@ server/CMakeFiles/listserver_lib.dir/src/RealIrcStub.cpp.o: \
  /usr/include/c++/14.2.1/bits/stl_vector.h \
  /usr/include/c++/14.2.1/bits/stl_bvector.h \
  /usr/include/c++/14.2.1/bits/vector.tcc \
- /home/tyler/projects/graal-serverlist/server/include/IrcChannel.h \
+ /home/tyler/repos/graal-serverlist/server/include/IrcChannel.h \
  /usr/include/c++/14.2.1/map /usr/include/c++/14.2.1/bits/stl_tree.h \
  /usr/include/c++/14.2.1/bits/stl_map.h \
  /usr/include/c++/14.2.1/bits/stl_multimap.h \
  /usr/include/c++/14.2.1/unordered_map \
  /usr/include/c++/14.2.1/bits/unordered_map.h \
- /home/tyler/projects/graal-serverlist/server/include/ListServer.h \
+ /home/tyler/repos/graal-serverlist/server/include/ListServer.h \
  /usr/include/c++/14.2.1/cassert /usr/include/assert.h \
  /usr/include/c++/14.2.1/memory \
  /usr/include/c++/14.2.1/bits/stl_tempbuf.h \
@@ -201,7 +201,7 @@ server/CMakeFiles/listserver_lib.dir/src/RealIrcStub.cpp.o: \
  /usr/include/c++/14.2.1/bits/ranges_algobase.h \
  /usr/include/c++/14.2.1/pstl/glue_memory_defs.h \
  /usr/include/c++/14.2.1/pstl/execution_defs.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CLog.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CLog.h \
  /usr/include/c++/14.2.1/cstdarg /usr/include/c++/14.2.1/mutex \
  /usr/include/c++/14.2.1/bits/chrono.h /usr/include/c++/14.2.1/ratio \
  /usr/include/c++/14.2.1/limits /usr/include/c++/14.2.1/ctime \
@@ -215,7 +215,7 @@ server/CMakeFiles/listserver_lib.dir/src/RealIrcStub.cpp.o: \
  /usr/include/c++/14.2.1/bits/atomic_timed_wait.h \
  /usr/include/c++/14.2.1/bits/this_thread_sleep.h /usr/include/sys/time.h \
  /usr/include/semaphore.h /usr/include/bits/semaphore.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CString.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CString.h \
  /usr/include/c++/14.2.1/cstring /usr/include/string.h \
  /usr/include/strings.h /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algo.h \
@@ -224,8 +224,8 @@ server/CMakeFiles/listserver_lib.dir/src/RealIrcStub.cpp.o: \
  /usr/include/c++/14.2.1/bits/uniform_int_dist.h \
  /usr/include/c++/14.2.1/bits/ranges_algo.h \
  /usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CSettings.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CSocket.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CSettings.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CSocket.h \
  /usr/include/netinet/in.h /usr/include/sys/socket.h \
  /usr/include/bits/types/struct_iovec.h /usr/include/bits/socket.h \
  /usr/include/bits/socket_type.h /usr/include/bits/sockaddr.h \
@@ -237,12 +237,12 @@ server/CMakeFiles/listserver_lib.dir/src/RealIrcStub.cpp.o: \
  /usr/include/asm-generic/sockios.h \
  /usr/include/bits/types/struct_osockaddr.h /usr/include/bits/in.h \
  /usr/include/arpa/inet.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CString.h \
- /home/tyler/projects/graal-serverlist/server/include/IDataBackend.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CString.h \
+ /home/tyler/repos/graal-serverlist/server/include/IDataBackend.h \
  /usr/include/c++/14.2.1/optional \
- /home/tyler/projects/graal-serverlist/server/include/DeviceIdentity.h \
- /home/tyler/projects/graal-serverlist/server/include/PlayerProfile.h \
- /home/tyler/projects/graal-serverlist/server/include/ServerHQ.h \
- /home/tyler/projects/graal-serverlist/server/include/IrcServer.h \
- /home/tyler/projects/graal-serverlist/server/include/IrcConnection.h \
- /home/tyler/projects/graal-serverlist/dependencies/gs2lib/include/CEncryption.h
+ /home/tyler/repos/graal-serverlist/server/include/DeviceIdentity.h \
+ /home/tyler/repos/graal-serverlist/server/include/PlayerProfile.h \
+ /home/tyler/repos/graal-serverlist/server/include/ServerHQ.h \
+ /home/tyler/repos/graal-serverlist/server/include/IrcServer.h \
+ /home/tyler/repos/graal-serverlist/server/include/IrcConnection.h \
+ /home/tyler/repos/graal-serverlist/dependencies/gs2lib/include/CEncryption.h

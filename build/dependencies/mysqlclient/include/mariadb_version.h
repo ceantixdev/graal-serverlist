@@ -30,7 +30,7 @@
 #define MARIADB_PACKAGE_VERSION_ID 30303
 #define MARIADB_SYSTEM_TYPE "Linux"
 #define MARIADB_MACHINE_TYPE "x86_64"
-#define MARIADB_PLUGINDIR "/root/GServer//tmp"
+#define MARIADB_PLUGINDIR "/root/Listserver//tmp"
 
 /* mysqld compile time options */
 #ifndef MYSQL_CHARSET
